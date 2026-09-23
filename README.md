@@ -1,5 +1,5 @@
-# Lei Chen Academic Research Website
+# Personal Webpage — Lei Chen
 
-This repository contains the static website generated from the locally maintained Lei Chen research group project.
+This repository contains the static Lei Chen research group website.
 
-Website: https://daisyzxy.github.io/lei-chen-research/
+Website: https://chenhkust.github.io/personal-webpage/
